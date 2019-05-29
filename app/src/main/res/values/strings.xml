@@ -1,3 +1,39 @@
 <resources>
     <string name="app_name">HomeWork222</string>
+
+    <string-array name="countries">
+        <item>Россия</item>
+        <item>Украина</item>
+        <item>Белоруссия</item>
+    </string-array>
+    <string-array name="r_cities">
+        <item>Москва</item>
+        <item>Санкт-Петербург</item>
+        <item>Казань</item>
+    </string-array>
+    <string-array name="u_cities">
+        <item>Киев</item>
+        <item>Одесса</item>
+        <item>Харьков</item>
+    </string-array>
+    <string-array name="b_cities">
+        <item>Минск</item>
+        <item>Гомель</item>
+        <item>Торжок</item>
+    </string-array>
+    <string name="picture">Picture</string>
+    <string name="buttonBack">НАЗАД</string>
+    <string name="buttonFront">ВПЕРЕД</string>
+    <string name="link">http://myfile.org/%1$d</string>
+
+    <string name="text_username">Имя пользователя</string>
+    <string name="field_usrename" />
+    <string name="text_email">Электронная почта</string>
+    <string name="field_email" />
+    <string name="ok_button">OK</string>
+    <string name="clear_button">ОЧИСТИТЬ</string>
+    <string name="hintName">Имя</string>
+    <string name="emailHint">Почта</string>
+    <string name="text1">Подписка на рассылку успешно оформлена для пользователя %1$s на электронный адрес %2$s </string>
+
 </resources>

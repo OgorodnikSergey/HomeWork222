@@ -21,7 +21,11 @@
             </intent-filter>
         </activity>
         <activity android:name=".NotesActivity"/>
-
+        <activity android:name=".CalendarActivity"/>
+        <activity android:name=".GorodaActivity"/>
+        <activity android:name=".OplataActivity"/>
+        <activity android:name=".FotoActivity"/>
+        <activity android:name=".PodpiskaActivity"/>
     </application>
 
 </manifest>
